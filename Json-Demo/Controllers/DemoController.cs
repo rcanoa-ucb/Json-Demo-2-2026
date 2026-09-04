@@ -11,6 +11,12 @@ namespace Json_Demo.Controllers
         public DemoController()
         {
             //Cambio 1 del usuario developer
+            //Cambio 2 del usuario
+        }
+
+        int Sumar(int a, int b)
+        {
+            return (a + b);
         }
 
         [HttpGet("generica")]
