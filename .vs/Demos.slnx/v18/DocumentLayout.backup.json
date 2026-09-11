@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Desarrollo\\2026\\Demos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|c:\\desarrollo\\2026\\demos\\json-demo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|c:\\desarrollo\\2026\\demos\\json-demo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|c:\\desarrollo\\2026\\demos\\json-demo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|c:\\desarrollo\\2026\\demos\\json-demo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|c:\\desarrollo\\2026\\demos\\json-demo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86A59D8-0126-06DC-865F-4A1543D07225}|Json-Demo\\Json-Demo.csproj|solutionrelative:json-demo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Json-Demo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:23:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Json-Demo\\Models\\Person.cs",
+              "ToolTip": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Models\\Person.cs",
+              "RelativeToolTip": "Json-Demo\\Models\\Person.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:03:53.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DemoController.cs",
               "DocumentMoniker": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Controllers\\DemoController.cs",
               "ToolTip": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Controllers\\DemoController.cs",
               "RelativeToolTip": "Json-Demo\\Controllers\\DemoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T21:35:16.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Persona.cs",
               "RelativeDocumentMoniker": "Json-Demo\\Persona.cs",
               "ToolTip": "C:\\Desarrollo\\2026\\Demos\\Json-Demo\\Persona.cs",
               "RelativeToolTip": "Json-Demo\\Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T21:27:19.092Z"
+              "WhenOpened": "2026-08-28T21:27:19.092Z",
+              "EditorCaption": ""
             }
           ]
         }
